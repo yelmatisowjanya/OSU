@@ -1,0 +1,3944 @@
+
+Snapshot:
+CLOCK:(HEX)Virtual Units0
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)1
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)1,2,3,4,5,6,7,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)2
+The Part of the partition occupied by this program:(HEX)
+309  705  207  403  640  204  439  302
+620  610  00c  000  003  00c  000  000
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)003
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000001100
+Partition:DECIMAL2
+Size:DECIMAL32
+Time the job Entered the System:(HEX)04b
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)1
+The Part of the partition occupied by this program: 
+640  211  212  f10  40a  30e  10e  20c
+30c  10c  f30  402  208  437  304  384
+620  6a0  610  005  00f  001  fff  005
+002  005  00f  000  000  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)005
+002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000101
+000000001111
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)0e6
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)7
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)4
+The Part of the partition occupied by this program:(HEX)
+  640  21c  640  21b  710  720  21a  640  
+  217  710  720  216  311  113  f50  407  
+  400  38c  30b  10e  f50  38a  405  387  
+  306  108  f50  384  6a0  610  003  001  
+  007  fff  ff9  003  001  007  002  001  
+  00a  007  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)6
+Input Lines:(HEX)003
+001
+007
+002
+001
+00a
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000111
+
+Snapshot:
+CLOCK:(HEX)Virtual Units243
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)8
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)8,
+BLOCKED QUEUE(DECIMAL)5,6,7,3,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)7
+The Part of the partition occupied by this program(HEX)
+ 640  6c0  21a  21a  29a  fb0  415  790 
+ 197  297  396  192  291  fe0  43b  fa0 
+ 406  28c  38b  f00  18a  f00  f00  305 
+ 620  305  620  6a0  610  004  ffe  003 
+ 001  ffd  004  003  00c  001  004  003 
+ ffe  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)004
+003
+00c
+001
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000100
+000000000011
+111111111110
+Partition:DECIMAL7
+Size:DECIMAL128
+Time the job Entered the System:(HEX)11a
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)5
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units283
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)9
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)9,
+BLOCKED QUEUE(DECIMAL)3,8,5,6,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)3
+The Part of the partition occupied by this program:(HEX)
+  21d  000  31d  000  29f  000  11f  000  
+  f30  000  c18  000  19b  000  11b  000  
+  f30  000  c14  000  43b  000  640  000  
+  212  000  640  000  211  000  394  000  
+  f30  000  406  000  20e  000  52c  000  
+  30c  000  10d  000  f40  000  43a  000  
+  306  000  620  000  305  000  620  000  
+  6a0  000  610  000  014  000  003  000  
+  004  000  001  000  01b  000  fff  000  
+  001  000  000  000  000  000  000  000  
+  003  000  004  000  001  000  007  000  
+  003  000  004  000  051  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)003
+004
+001
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000011
+000000000100
+000001010001
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)142
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)5
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units323
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)10
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)10,11,
+BLOCKED QUEUE(DECIMAL)8,5,6,9,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)6
+The Part of the partition occupied by this program(HEX)
+  640  f10  417  217  319  620  720  216  
+  316  720  214  710  720  10d  f10  40a  
+  30d  620  309  109  209  306  206  306  
+  203  42e  610  005  005  003  005  005  
+  005  001  000  001  001  002  003  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)005
+001
+Number of output Lines:(DECIMAL)6
+Output Lines:HEX000000000000
+000000000001
+000000000001
+000000000010
+000000000011
+
+Snapshot:
+CLOCK:(HEX)Virtual Units521
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)12
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)12,13,
+BLOCKED QUEUE(DECIMAL)11,10,9,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)10
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  f10  000  41a  000  
+  710  000  720  000  210  000  30e  000  
+  110  000  f30  000  413  000  10d  000  
+  f30  000  41d  000  307  000  38a  000  
+  7a0  006  288  000  790  000  7a0  000  
+  283  000  409  000  005  000  ffb  000  
+  ffc  000  fff  000  004  000  001  000  
+  000  000  000  000  610  000  23b  000  
+  137  000  f20  000  43c  000  337  000  
+  f30  000  407  000  3b3  000  7a0  000  
+  1ae  000  fc0  000  423  000  330  000  
+  230  000  32f  000  620  000  610  000  
+  005  000  002  000  009  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)005
+002
+009
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000000000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)27d
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units638
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)14
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)14,
+BLOCKED QUEUE(DECIMAL)13,12,11,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)14
+The Part of the partition occupied by this program:(HEX)
+  309  000  705  000  207  000  403  000  
+  640  000  204  000  439  000  302  000  
+  620  000  610  000  008  000  000  000  
+  002  000  008  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000001000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units694
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)15
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)15,
+BLOCKED QUEUE(DECIMAL)12,11,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)12
+The Part of the partition occupied by this program(HEX)
+  21e  740  39b  f90  483  117  195  43b  
+  c16  21a  315  211  314  210  531  112  
+  012  20e  c11  640  20b  640  20a  640  
+  209  52f  620  610  fff  001  002  00f  
+  005  002  003  0ff  01a  001  002  003  
+  005  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)001
+002
+003
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000000101
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)2b8
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)5
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units697
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)16
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)16,
+BLOCKED QUEUE(DECIMAL)11,15,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units733
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)16
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)16,
+BLOCKED QUEUE(DECIMAL)11,15,
+The time the job was scheduled from cpu(DECIMAL)697
+Snapshot:
+CLOCK:(HEX)Virtual Units769
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)16
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)16,
+BLOCKED QUEUE(DECIMAL)11,15,
+The time the job was scheduled from cpu(DECIMAL)733
+Progress File:Job ID:(DECIMAL)11
+The Part of the partition occupied by this program: 
+640  38b  6a0  18b  288  388  6a0  186
+285  106  f40  435  610  006  040  001
+fff  005  001  001  002  002  004  003
+008  004  010  005  020  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)005
+001
+Number of output Lines:(DECIMAL)10
+Output Lines:HEX000000000001
+000000000010
+000000000010
+000000000100
+000000000011
+000000001000
+000000000100
+000000010000
+000000000101
+000000100000
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)3de
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)5
+I/O Time:(Decimal)25
+Total run time:(DECIMAL)5
+
+Snapshot:
+CLOCK:(HEX)Virtual Units995
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)17
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)17,
+BLOCKED QUEUE(DECIMAL)15,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)15
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  006  000  004  000  007  000  
+  fff  000  008  000  006  000  004  000  
+  007  000  081  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)006
+004
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000010000001
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1073
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)18
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)18,
+BLOCKED QUEUE(DECIMAL)17,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)17
+The Part of the partition occupied by this program: 
+640  38b  6a0  18b  288  388  6a0  186
+285  106  f40  435  610  003  008  001
+fff  002  00e  001  002  002  004  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)002
+00e
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000000001
+000000000010
+000000000010
+000000000100
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)453
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)5
+I/O Time:(Decimal)22
+Total run time:(DECIMAL)5
+
+Progress File:Job ID:(DECIMAL)18
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  00a  000  002  000  001  000  
+  fff  000  004  000  00a  000  002  000  
+  001  000  041  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)00a
+002
+001
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000001000001
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1222
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)19
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)19,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)19
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  005  000  004  000  002  000  
+  fff  000  008  000  005  000  004  000  
+  002  000  028  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)005
+004
+002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000101000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1359
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)20
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)20,21,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)21
+The Part of the partition occupied by this program: 
+211  790  7a0  c0e  6c0  fd0  539  288
+307  7c0  185  105  f60  43c  6a0  610
+004  fff  000  004  001  00a  010  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)004
+001
+00a
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000010000
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)5b5
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1462
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)22
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)22,
+BLOCKED QUEUE(DECIMAL)20,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units1498
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)22
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)22,
+BLOCKED QUEUE(DECIMAL)20,
+The time the job was scheduled from cpu(DECIMAL)1462
+Snapshot:
+CLOCK:(HEX)Virtual Units1534
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)22
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)22,
+BLOCKED QUEUE(DECIMAL)20,
+The time the job was scheduled from cpu(DECIMAL)1498
+Progress File:Job ID:(DECIMAL)20
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  f10  000  41a  000  
+  710  000  720  000  210  000  30e  000  
+  110  000  f30  000  413  000  10d  000  
+  f30  000  41d  000  307  000  38a  000  
+  7a0  006  288  000  790  000  7a0  000  
+  283  000  409  000  005  000  ffb  000  
+  ffc  000  fff  000  004  000  001  000  
+  000  000  000  000  610  000  23b  000  
+  137  000  f20  000  43c  000  337  000  
+  f30  000  407  000  3b3  000  7a0  000  
+  1ae  000  fc0  000  423  000  330  000  
+  230  000  32f  000  620  000  610  000  
+  005  000  009  000  00a  000  001  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)005
+009
+00a
+001
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1591
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)23
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)23,
+BLOCKED QUEUE(DECIMAL)22,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)23
+The Part of the partition occupied by this program:(HEX)
+  000  000  010  000  640  002  210  000  
+  23b  000  3bb  000  790  000  7a0  000  
+  28a  000  7c0  000  335  000  f10  000  
+  417  000  3b2  000  740  000  183  000  
+  fd0  000  405  000  402  000  ff0  000  
+  00a  000  720  000  438  000  1a9  000  
+  290  000  226  000  740  000  3a5  000  
+  10d  000  18d  000  f90  000  401  000  
+  43b  000  107  000  207  000  426  000  
+  32f  000  620  000  303  000  620  000  
+  610  000  00a  000  00a  000  fff  000  
+  00a  000  001  000  00f  000  003  000  
+  002  000  00a  000  00a  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)00a
+001
+00f
+003
+002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000001010
+000000001010
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)6b3
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1716
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)24
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)24,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)24
+The Part of the partition occupied by this program:(HEX)
+  21e  000  740  000  39b  000  f90  000  
+  483  000  117  000  195  000  43b  000  
+  c16  000  21a  000  315  000  211  000  
+  314  000  210  000  531  000  112  000  
+  012  000  20e  000  c11  000  640  000  
+  20b  000  640  000  20a  000  640  000  
+  209  000  52f  000  620  000  610  000  
+  fff  000  00a  000  002  000  00f  000  
+  01b  000  002  000  007  000  0ff  000  
+  01a  000  00a  000  002  000  007  000  
+  01b  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)00a
+002
+007
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000011011
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1789
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)25
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)25,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)25
+The Part of the partition occupied by this program:(HEX)
+  309  000  705  000  207  000  403  000  
+  640  000  204  000  439  000  302  000  
+  620  000  610  000  00c  000  000  000  
+  003  000  001  000  00e  000  00c  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  001  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)003
+001
+00e
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000001100
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)71a
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)22
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1819
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)26
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)26,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)26
+The Part of the partition occupied by this program:(HEX)
+  21e  000  319  000  299  000  119  000  
+  f30  000  c19  000  195  000  115  000  
+  f30  000  c15  000  43b  000  640  000  
+  20d  000  390  000  f30  000  406  000  
+  20a  000  52e  000  308  000  109  000  
+  f40  000  43a  000  303  000  620  000  
+  6a0  000  610  000  004  000  001  000  
+  018  000  fff  000  001  000  012  000  
+  004  000  00a  000  002  000  004  000  
+  018  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)004
+00a
+002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000100
+000000011000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)784
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1925
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)27
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)27,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)27
+The Part of the partition occupied by this program:(HEX)
+  21e  000  740  000  39b  000  f90  000  
+  483  000  117  000  195  000  43b  000  
+  c16  000  21a  000  315  000  211  000  
+  314  000  210  000  531  000  112  000  
+  012  000  20e  000  c11  000  640  000  
+  20b  000  640  000  20a  000  640  000  
+  209  000  52f  000  620  000  610  000  
+  fff  000  002  000  001  000  00f  000  
+  004  000  001  000  002  000  0ff  000  
+  01a  000  002  000  001  000  002  000  
+  003  000  004  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)002
+001
+002
+003
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000000100
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)7c9
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)44
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units1994
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)28
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)28,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)28
+The Part of the partition occupied by this program:(HEX)
+  6c0  000  f90  000  610  000  f70  000  
+  005  000  2be  000  790  000  7a0  000  
+  281  000  ff0  000  ffb  000  640  000  
+  205  000  206  000  7c0  000  7a0  000  
+  784  000  ff0  000  00a  000  ff0  000  
+  00a  000  29a  000  319  000  132  000  
+  f60  000  415  000  640  000  21a  000  
+  710  000  720  000  133  000  f10  000  
+  403  000  314  000  22f  000  408  000  
+  311  000  710  000  720  000  12c  000  
+  f20  000  402  000  30b  000  228  000  
+  7a0  000  282  000  427  000  ff0  000  
+  002  000  320  000  620  000  320  000  
+  620  000  610  000  000  000  005  000  
+  00a  000  001  000  003  000  00e  000  
+  002  000  00a  000  00a  000  000  000  
+Number of Input Lines:(DECIMAL)6
+Input Lines:(HEX)005
+00a
+001
+003
+00e
+002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000001010
+000000001010
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)80c
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)44
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2061
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)29
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)29,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)29
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  f10  000  41a  000  
+  710  000  720  000  210  000  30e  000  
+  110  000  f30  000  413  000  10d  000  
+  f30  000  41d  000  307  000  38a  000  
+  7a0  006  288  000  790  000  7a0  000  
+  283  000  409  000  01a  000  fe6  000  
+  ffe  000  fff  000  002  000  000  000  
+  000  000  001  000  610  000  23b  000  
+  137  000  f20  000  43c  000  337  000  
+  f30  000  407  000  3b3  000  7a0  000  
+  1ae  000  fc0  000  423  000  330  000  
+  230  000  32f  000  620  000  610  000  
+  01a  000  001  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)01a
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000001
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2161
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)30
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)30,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)30
+The Part of the partition occupied by this program:(HEX)
+  640  000  38b  000  6a0  000  18b  000  
+  288  000  388  000  6a0  000  186  000  
+  285  000  106  000  f40  000  435  000  
+  610  000  008  000  100  000  001  000  
+  fff  000  007  000  002  000  001  000  
+  001  000  002  000  002  000  004  000  
+  003  000  008  000  004  000  010  000  
+  005  004  020  000  006  001  040  000  
+  007  000  080  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  002  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  001  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)007
+002
+001
+Number of output Lines:(DECIMAL)14
+Output Lines:HEX000000000001
+000000000010
+000000000010
+000000000100
+000000000011
+000000001000
+000000000100
+000000010000
+000000000101
+000000100000
+000000000110
+000001000000
+000000000111
+000010000000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)950
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)5
+I/O Time:(Decimal)165
+Total run time:(DECIMAL)5
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2389
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)31
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)31,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)31
+The Part of the partition occupied by this program:(HEX)
+  640  000  38b  000  6a0  000  18b  000  
+  288  000  388  000  6a0  000  186  000  
+  285  000  106  000  f40  000  435  000  
+  610  000  005  000  020  000  001  000  
+  fff  000  004  000  001  000  002  000  
+  002  000  004  000  003  000  008  000  
+  004  000  010  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  002  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  001  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)004
+Number of output Lines:(DECIMAL)8
+Output Lines:HEX000000000001
+000000000010
+000000000010
+000000000100
+000000000011
+000000001000
+000000000100
+000000010000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)9d7
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)5
+I/O Time:(Decimal)99
+Total run time:(DECIMAL)5
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2524
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)32
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)32,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)32
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  397  000  f00  000  
+  f90  000  40f  000  f10  000  40d  000  
+  215  000  314  000  112  000  f10  000  
+  408  000  210  000  30b  000  10d  000  
+  f10  000  437  000  289  000  188  000  
+  43a  000  303  000  f00  000  6a0  000  
+  610  000  003  000  002  000  000  000  
+  000  000  fff  000  000  000  003  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)003
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX
+Snapshot:
+CLOCK:(HEX)Virtual Units2542
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)33
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)33,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)33
+The Part of the partition occupied by this program:(HEX)
+  21e  000  319  000  299  000  119  000  
+  f30  000  c19  000  195  000  115  000  
+  f30  000  c15  000  43b  000  640  000  
+  20d  000  390  000  f30  000  406  000  
+  20a  000  52e  000  308  000  109  000  
+  f40  000  43a  000  303  000  620  000  
+  6a0  000  610  000  002  000  001  000  
+  002  000  fff  000  001  000  012  000  
+  002  000  001  000  002  000  002  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)002
+001
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000000010
+000000000010
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2606
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)34
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)34,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)34
+The Part of the partition occupied by this program:(HEX)
+  217  000  315  000  710  000  720  000  
+  111  000  c12  000  640  000  20e  000  
+  640  007  20d  000  f30  000  41f  000  
+  00c  000  f40  000  41c  000  306  000  
+  f30  000  419  000  006  000  f40  000  
+  416  000  406  000  000  000  003  000  
+  01b  000  800  000  525  000  409  000  
+  523  000  03b  000  f30  000  404  000  
+  3b6  000  334  000  234  000  2b2  000  
+  435  000  230  000  3af  000  32f  000  
+  fb0  000  402  000  431  000  302  000  
+  620  000  610  000  fff  000  003  000  
+  006  000  003  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)003
+006
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000011
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2701
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)35
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)35,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)35
+The Part of the partition occupied by this program:(HEX)
+  640  000  213  000  00f  000  20e  000  
+  310  000  00d  000  703  000  703  000  
+  20a  000  30b  000  009  000  705  000  
+  705  000  105  000  103  000  206  000  
+  206  000  407  000  002  000  007  000  
+  f00  000  072  000  075  000  009  000  
+  000  000  3bb  000  790  000  7a0  000  
+  1b9  000  fd0  000  40c  000  fc0  000  
+  405  000  3b3  000  6a0  000  3b3  000  
+  6a0  000  610  000  3ae  000  6a0  000  
+  3af  000  6a0  000  610  000  3aa  000  
+  1aa  000  2a8  000  42a  000  072  000  
+  072  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)072
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000001110010
+000000000000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)b40
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2881
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)36
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)36,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)36
+The Part of the partition occupied by this program:(HEX)
+  6c0  000  f90  000  610  000  f70  000  
+  004  000  2be  000  790  000  7a0  000  
+  281  000  ff0  000  ffc  000  640  000  
+  205  000  206  000  7c0  000  7a0  000  
+  784  000  ff0  000  00a  000  ff0  000  
+  00a  000  29a  000  319  000  132  000  
+  f60  000  415  000  640  000  21a  000  
+  710  000  720  000  133  000  f10  000  
+  403  000  314  000  22f  000  408  000  
+  311  000  710  000  720  000  12c  000  
+  f20  000  402  000  30b  000  228  000  
+  7a0  000  282  000  427  000  ff0  000  
+  002  000  320  000  620  000  320  000  
+  620  000  610  000  000  000  004  000  
+  00a  000  007  000  002  000  00b  000  
+  00a  000  00a  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)004
+00a
+007
+002
+00b
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000001010
+000000001010
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)b83
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)44
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units2948
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)37
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)37,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)37
+The Part of the partition occupied by this program:(HEX)
+  640  000  6c0  000  21a  000  21a  000  
+  29a  000  fb0  000  415  000  790  000  
+  197  000  297  000  396  000  192  000  
+  291  000  fe0  000  43b  000  fa0  000  
+  406  000  28c  000  38b  000  f00  000  
+  18a  000  f00  000  f00  000  305  000  
+  620  000  305  000  620  000  6a0  000  
+  610  000  00b  000  fff  000  006  000  
+  001  000  ffa  000  00b  000  006  000  
+  00b  000  006  000  fff  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)00b
+006
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001011
+000000000110
+111111111111
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3027
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)38
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)38,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)38
+The Part of the partition occupied by this program:(HEX)
+  21e  000  740  000  39b  000  f90  000  
+  483  000  117  000  195  000  43b  000  
+  c16  000  21a  000  315  000  211  000  
+  314  000  210  000  531  000  112  000  
+  012  000  20e  000  c11  000  640  000  
+  20b  000  640  000  20a  000  640  000  
+  209  000  52f  000  620  000  610  000  
+  fff  000  001  000  002  000  00f  000  
+  005  000  002  000  003  000  0ff  000  
+  01a  000  001  000  002  000  003  000  
+  005  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)001
+002
+003
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000000101
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3100
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)39
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)39,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)39
+The Part of the partition occupied by this program:(HEX)
+  21c  000  318  000  7c0  000  196  000  
+  116  000  f30  000  c16  000  43b  000  
+  640  000  20f  000  7c0  000  f30  000  
+  408  000  20c  000  531  000  18c  000  
+  28b  000  308  000  108  000  f40  000  
+  438  000  303  000  620  000  6a0  000  
+  610  000  005  000  001  000  fff  000  
+  037  000  00f  000  005  000  00a  000  
+  003  000  005  000  008  000  005  000  
+  037  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)005
+00a
+003
+005
+008
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000101
+000000110111
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)cb3
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3252
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)40
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)40,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)40
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  397  000  f00  000  
+  f90  000  40f  000  f10  000  40d  000  
+  215  000  314  000  112  000  f10  000  
+  408  000  210  000  30b  000  10d  000  
+  f10  000  437  000  289  000  188  000  
+  43a  000  303  000  f00  000  6a0  000  
+  610  000  008  000  002  000  000  000  
+  000  000  fff  000  000  000  008  000  
+  003  000  00a  000  002  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)008
+003
+00a
+002
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX
+Snapshot:
+CLOCK:(HEX)Virtual Units3270
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)41
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)41,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)41
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  316  000  014  000  
+  f30  000  403  000  315  000  620  000  
+  402  000  313  000  620  000  30c  000  
+  702  000  20a  000  30c  000  10a  000  
+  20a  000  f40  000  42f  000  610  000  
+  000  000  000  000  000  000  000  000  
+  800  000  00a  000  fff  000  000  000  
+  001  000  000  000  000  000  000  000  
+  00a  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  001  000  000  000  001  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)00a
+Number of output Lines:(DECIMAL)14
+Output Lines:HEX000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000001
+000000000000
+000000000001
+000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3570
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)42
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)42,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)42
+The Part of the partition occupied by this program:(HEX)
+  6c0  000  299  000  316  000  216  000  
+  396  000  195  000  295  000  312  000  
+  115  000  210  000  f40  000  439  000  
+  390  000  18e  000  28e  000  309  000  
+  10d  000  207  000  f40  000  42e  000  
+  386  000  6a0  000  186  000  6a0  000  
+  610  000  000  000  000  000  003  000  
+  006  000  01b  000  fff  000  003  000  
+  003  000  01e  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)003
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000011
+000000011110
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)e5d
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3678
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)43
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)43,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)43
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  640  000  213  000  
+  395  000  110  000  211  000  f30  000  
+  407  000  38e  000  30d  006  10d  000  
+  18b  000  10b  000  f40  000  43c  000  
+  305  000  620  000  304  000  620  000  
+  6a0  000  610  000  003  000  007  000  
+  00a  000  fff  000  000  000  003  000  
+  007  000  003  000  007  000  064  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)003
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000011
+000000000111
+000001100100
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)ec3
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)55
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3780
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)44
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)44,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)44
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  006  000  003  000  004  000  
+  fff  000  006  000  006  000  003  000  
+  004  000  001  000  00a  000  002  000  
+  04e  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)6
+Input Lines:(HEX)006
+003
+004
+001
+00a
+002
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000001001110
+
+Snapshot:
+CLOCK:(HEX)Virtual Units3961
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)45
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)45,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)45
+The Part of the partition occupied by this program:(HEX)
+  640  000  f10  000  417  000  217  000  
+  319  000  620  000  720  000  216  000  
+  316  000  720  000  214  000  710  000  
+  720  000  10d  000  f10  000  40a  000  
+  30d  000  620  000  309  000  109  000  
+  209  000  306  000  206  000  306  000  
+  203  000  42e  000  610  000  008  000  
+  015  000  00d  000  015  000  008  000  
+  008  000  001  000  000  000  001  000  
+  001  000  002  000  003  000  005  000  
+  008  000  00d  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)008
+001
+Number of output Lines:(DECIMAL)9
+Output Lines:HEX000000000000
+000000000001
+000000000001
+000000000010
+000000000011
+000000000101
+000000001000
+000000001101
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4186
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)46
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)46,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)46
+The Part of the partition occupied by this program:(HEX)
+  6c0  000  299  000  316  000  216  000  
+  396  000  195  000  295  000  312  000  
+  115  000  210  000  f40  000  439  000  
+  390  000  18e  000  28e  000  309  000  
+  10d  000  207  000  f40  000  42e  000  
+  386  000  6a0  000  186  000  6a0  000  
+  610  000  000  000  000  000  005  000  
+  00a  000  02d  000  fff  000  005  000  
+  005  000  032  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)005
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000101
+000000110010
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4294
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)47
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)47,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)47
+The Part of the partition occupied by this program:(HEX)
+  21e  000  319  000  299  000  119  000  
+  f30  000  c19  000  195  000  115  000  
+  f30  000  c15  000  43b  000  640  000  
+  20d  000  390  000  f30  000  406  000  
+  20a  000  52e  000  308  000  109  000  
+  f40  000  43a  000  303  000  620  000  
+  6a0  000  610  000  003  000  001  000  
+  006  000  fff  000  001  000  012  000  
+  003  000  002  000  003  000  003  000  
+  006  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)003
+002
+003
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000011
+000000000110
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4377
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)48
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)48,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)48
+The Part of the partition occupied by this program:(HEX)
+  640  000  f10  000  417  000  217  000  
+  319  000  620  000  720  000  216  000  
+  316  000  720  000  214  000  710  000  
+  720  000  10d  000  f10  000  40a  000  
+  30d  000  620  000  309  000  109  000  
+  209  000  306  000  206  000  306  000  
+  203  000  42e  000  610  000  007  000  
+  00d  000  008  000  00d  000  007  000  
+  007  000  00a  000  004  000  000  000  
+  001  000  001  000  002  000  003  000  
+  005  000  008  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)007
+00a
+004
+Number of output Lines:(DECIMAL)8
+Output Lines:HEX000000000000
+000000000001
+000000000001
+000000000010
+000000000011
+000000000101
+000000001000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4575
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)49
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)49,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)49
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  004  000  001  000  001  000  
+  fff  000  002  000  004  000  001  000  
+  001  000  00d  000  00a  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)004
+001
+001
+00d
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000001010
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1237
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)44
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4664
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)50
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)50,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)50
+The Part of the partition occupied by this program:(HEX)
+  640  000  6c0  000  21a  000  21a  000  
+  29a  000  fb0  000  415  000  790  000  
+  197  000  297  000  396  000  192  000  
+  291  000  fe0  000  43b  000  fa0  000  
+  406  000  28c  000  38b  000  f00  000  
+  18a  000  f00  000  f00  000  305  000  
+  620  000  305  000  620  000  6a0  000  
+  610  000  005  000  fff  000  003  000  
+  001  000  ffd  000  005  000  003  000  
+  005  000  003  000  fff  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)005
+003
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000000101
+000000000011
+111111111111
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4743
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)51
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)51,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)51
+The Part of the partition occupied by this program:(HEX)
+  217  000  315  000  710  000  720  000  
+  111  000  c12  000  640  000  20e  000  
+  640  007  20d  000  f30  000  41f  000  
+  00c  000  f40  000  41c  000  306  000  
+  f30  000  419  000  006  000  f40  000  
+  416  000  406  000  000  000  001  000  
+  01b  000  800  000  525  000  409  000  
+  523  000  03b  000  f30  000  404  000  
+  3b6  000  334  000  234  000  2b2  000  
+  435  000  230  000  3af  000  32f  000  
+  fb0  000  402  000  431  000  302  000  
+  620  000  610  000  fff  001  008  000  
+  003  000  001  000  001  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)008
+003
+001
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000001
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4913
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)52
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)52,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)52
+The Part of the partition occupied by this program:(HEX)
+  640  000  6c0  000  21a  000  21a  000  
+  29a  000  fb0  000  415  000  790  000  
+  197  000  297  000  396  000  192  000  
+  291  000  fe0  000  43b  000  fa0  000  
+  406  000  28c  000  38b  000  f00  000  
+  18a  000  f00  000  f00  000  305  000  
+  620  000  305  000  620  000  6a0  000  
+  610  000  009  000  000  000  003  000  
+  001  000  ffd  000  009  000  003  000  
+  009  000  003  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)009
+003
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000001001
+000000000011
+000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units4994
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)53
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)53,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)53
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  397  000  f00  000  
+  f90  000  40f  000  f10  000  40d  000  
+  215  000  314  000  112  000  f10  000  
+  408  000  210  000  30b  000  10d  000  
+  f10  000  437  000  289  000  188  000  
+  43a  000  303  000  f00  000  6a0  000  
+  610  000  006  000  002  000  000  000  
+  000  000  fff  000  000  000  006  000  
+  003  000  001  000  00a  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)006
+003
+001
+00a
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX
+Snapshot:
+CLOCK:(HEX)Virtual Units5012
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)54
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)54,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)54
+The Part of the partition occupied by this program:(HEX)
+  640  000  211  000  212  000  f10  000  
+  40a  000  30e  000  10e  000  20c  000  
+  30c  000  10c  000  f30  000  402  000  
+  208  000  437  000  304  000  384  000  
+  620  000  6a0  000  610  000  007  000  
+  01c  000  001  000  fff  000  007  000  
+  00a  000  001  000  007  000  01c  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)007
+00a
+001
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000111
+000000011100
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)13f1
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units5106
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)55
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)55,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)55
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  316  000  014  000  
+  f30  000  403  000  315  000  620  000  
+  402  000  313  000  620  000  30c  000  
+  702  000  20a  000  30c  000  10a  000  
+  20a  000  f40  000  42f  000  610  000  
+  000  000  000  000  000  000  000  000  
+  800  000  00e  000  fff  000  000  000  
+  001  000  000  000  000  000  000  000  
+  00e  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  001  000  001  000  001  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)00e
+Number of output Lines:(DECIMAL)14
+Output Lines:HEX000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000001
+000000000001
+000000000001
+000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units5406
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)56
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)56,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)56
+The Part of the partition occupied by this program:(HEX)
+  000  000  010  000  640  002  210  000  
+  23b  000  3bb  000  790  000  7a0  000  
+  28a  000  7c0  000  335  000  f10  000  
+  417  000  3b2  000  740  000  183  000  
+  fd0  000  405  000  402  000  ff0  000  
+  01c  000  720  000  438  000  1a9  000  
+  290  000  226  000  740  000  3a5  000  
+  10d  000  18d  000  f90  000  401  000  
+  43b  000  107  000  207  000  426  000  
+  32f  000  620  000  303  000  620  000  
+  610  000  001  000  0c1  000  fff  000  
+  01c  000  00d  000  01c  000  0c1  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)01c
+00d
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000011100
+000011000001
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)15ee
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)33
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units5615
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)57
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)57,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)57
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  316  000  014  000  
+  f30  000  403  000  315  000  620  000  
+  402  000  313  000  620  000  30c  000  
+  702  000  20a  000  30c  000  10a  000  
+  20a  000  f40  000  42f  000  610  000  
+  000  000  000  000  000  000  000  000  
+  800  000  002  000  fff  000  000  000  
+  001  000  000  000  000  000  000  000  
+  002  000  00e  000  003  000  00a  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  001  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)002
+00e
+003
+00a
+Number of output Lines:(DECIMAL)12
+Output Lines:HEX000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000000
+000000000001
+000000000000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1713
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)8
+I/O Time:(Decimal)143
+Total run time:(DECIMAL)8
+
+Snapshot:
+CLOCK:(HEX)Virtual Units5915
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)58
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)58,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)58
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  640  000  213  000  
+  395  000  110  000  211  000  f30  000  
+  407  000  38e  000  30d  006  10d  000  
+  18b  000  10b  000  f40  000  43c  000  
+  305  000  620  000  304  000  620  000  
+  6a0  000  610  000  003  000  001  000  
+  004  000  fff  000  000  000  003  000  
+  001  000  00a  000  007  000  002  000  
+  003  000  001  000  010  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)003
+001
+00a
+007
+002
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000011
+000000000001
+000000010000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1768
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)55
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units5993
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)59
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)59,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)59
+The Part of the partition occupied by this program:(HEX)
+  21d  000  31d  000  29f  000  11f  000  
+  f30  000  c18  000  19b  000  11b  000  
+  f30  000  c14  000  43b  000  640  000  
+  212  000  640  000  211  000  394  000  
+  f30  000  406  000  20e  000  52c  000  
+  30c  000  10d  000  f40  000  43a  000  
+  306  000  620  000  305  000  620  000  
+  6a0  000  610  000  014  000  002  000  
+  004  000  001  000  008  000  fff  000  
+  001  000  000  000  000  000  000  000  
+  002  000  004  000  003  000  00a  000  
+  004  000  002  000  004  000  010  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)002
+004
+003
+00a
+004
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000010
+000000000100
+000000010000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)17e1
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)55
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units6114
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)60
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)60,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)60
+The Part of the partition occupied by this program:(HEX)
+  309  000  705  000  207  000  403  000  
+  640  000  204  000  439  000  302  000  
+  620  000  610  000  008  000  000  000  
+  002  000  00c  000  001  000  00e  000  
+  008  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  001  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)002
+00c
+001
+00e
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units6144
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)61
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)61,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)61
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  004  000  003  000  002  000  
+  fff  000  006  000  004  000  003  000  
+  002  000  018  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)004
+003
+002
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000011000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units6261
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)62
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)62,63,64,65,66,67,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)63
+The Part of the partition occupied by this program: 
+211  790  7a0  c0e  6c0  fd0  539  288
+307  7c0  185  105  f60  43c  6a0  610
+003  fff  000  003  004  00a  001  009
+000  070  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)003
+004
+00a
+001
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000001001
+000000000000
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)18d5
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)64
+The Part of the partition occupied by this program:(HEX)
+  21e  000  740  000  39b  000  f90  000  
+  483  000  117  000  195  000  43b  000  
+  c16  000  21a  000  315  000  211  000  
+  314  000  210  000  531  000  112  000  
+  012  000  20e  000  c11  000  640  000  
+  20b  000  640  000  20a  000  640  000  
+  209  000  52f  000  620  000  610  000  
+  fff  000  003  000  00b  000  00f  000  
+  024  000  00b  000  003  000  0ff  000  
+  01a  000  003  000  00b  000  003  000  
+  024  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)003
+00b
+003
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000100100
+
+Snapshot:
+CLOCK:(HEX)Virtual Units6640
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)68
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)68,69,
+BLOCKED QUEUE(DECIMAL)65,67,62,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units6718
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)69
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)69,62,
+BLOCKED QUEUE(DECIMAL)68,65,67,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)68
+The Part of the partition occupied by this program:(HEX)
+  000  000  010  000  640  002  210  000  
+  23b  000  3bb  000  790  000  7a0  000  
+  28a  000  7c0  000  335  000  f10  000  
+  417  000  3b2  000  740  000  183  000  
+  fd0  000  405  000  402  000  ff0  000  
+  003  000  720  000  438  000  1a9  000  
+  290  000  226  000  740  000  3a5  000  
+  10d  000  18d  000  f90  000  401  000  
+  43b  000  107  000  207  000  426  000  
+  32f  000  620  000  303  000  620  000  
+  610  000  003  000  003  000  fff  000  
+  003  000  00a  000  002  000  003  000  
+  003  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)003
+00a
+002
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000011
+000000000011
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1b2c
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)3
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units6957
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)70
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)70,71,
+BLOCKED QUEUE(DECIMAL)69,62,65,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)71
+The Part of the partition occupied by this program:(HEX)
+309  705  207  403  640  204  439  302
+620  610  028  000  00a  00a  00c  003
+008  001  028  620  610  00c  fff  000
+000  070  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)6
+Input Lines:(HEX)00a
+00a
+00c
+003
+008
+001
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000101000
+011000100000
+011000010000
+Partition:DECIMAL2
+Size:DECIMAL32
+Time the job Entered the System:(HEX)1c00
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)69
+The Part of the partition occupied by this program: 
+640  211  212  f10  40a  30e  10e  20c
+30c  10c  f30  402  208  437  304  384
+620  6a0  610  00a  037  001  fff  00a
+007  002  00c  00a  037  000  000  000
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)00a
+007
+002
+00c
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001010
+000000110111
+
+Progress File:Job ID:(DECIMAL)70
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  640  000  213  000  
+  395  000  110  000  211  000  f30  000  
+  407  000  38e  000  30d  006  10d  000  
+  18b  000  10b  000  f40  000  43c  000  
+  305  000  620  000  304  000  620  000  
+  6a0  000  610  000  010  000  002  000  
+  012  000  fff  000  000  000  010  000  
+  002  000  007  000  010  000  002  000  
+  144  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  002  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  002  000  000  
+  000  000  000  000  000  000  000  000  
+  000  002  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)010
+002
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000010000
+000000000010
+000101000100
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1c82
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)5
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)62
+The Part of the partition occupied by this program(HEX)
+  054  f80  056  003  fff  fff  640  f50  
+  409  3b8  7a0  2b6  a35  3b5  7a0  2b3  
+  435  054  330  20a  12f  209  209  339  
+  208  720  207  303  203  40a  001  002  
+  002  054  055  610  610  005  fff  610  
+  335  13c  f10  41a  231  3b2  1b7  fd0  
+  426  2ae  b2e  710  92d  f20  406  b29  
+  22c  b28  a26  329  a25  323  720  221  
+  720  220  42a  057  003  fff  bbc  2bb  
+  bbb  f90  610  b37  620  335  720  233  
+  1b4  437  fff  fff  001  005  008  005  
+  001  008  ffc  001  005  008  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)005
+001
+008
+ffc
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000001
+000000000101
+000000001000
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)1c83
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)7
+I/O Time:(Decimal)12
+Total run time:(DECIMAL)7
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7306
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)72
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)72,73,74,
+BLOCKED QUEUE(DECIMAL)65,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units7343
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)73
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)73,74,65,
+BLOCKED QUEUE(DECIMAL)72,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)73
+The Part of the partition occupied by this program: 
+309  705  207  403  640  204  439  302
+620  610  030  000  00c  030  000  000
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)00c
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000110000
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)1d19
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)72
+The Part of the partition occupied by this program(HEX)
+  6c0  f90  610  f70  006  2be  790  7a0  
+  281  ff0  ffa  640  205  206  7c0  7a0  
+  784  ff0  00a  ff0  00a  29a  319  132  
+  f60  415  640  21a  710  720  133  f10  
+  403  314  22f  408  311  710  720  12c  
+  f20  402  30b  228  7a0  282  427  ff0  
+  002  320  620  320  620  610  000  006  
+  00a  000  003  008  002  01c  00a  00a  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)7
+Input Lines:(HEX)006
+00a
+000
+003
+008
+002
+01c
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001010
+000000001010
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7486
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)75
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)75,76,
+BLOCKED QUEUE(DECIMAL)74,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units7522
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)76
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)76,75,
+BLOCKED QUEUE(DECIMAL)74,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units7559
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)75
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)75,74,
+BLOCKED QUEUE(DECIMAL)76,
+The time the job was scheduled from cpu(DECIMAL)7486
+Progress File:Job ID:(DECIMAL)76
+The Part of the partition occupied by this program: 
+211  790  7a0  c0e  6c0  fd0  539  288
+307  7c0  185  105  f60  43c  6a0  610
+004  fff  000  004  00a  00c  010  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)004
+00a
+00c
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000010000
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)1df1
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)75
+The Part of the partition occupied by this program(HEX)
+  070  003  392  315  212  f20  403  310  
+  720  20e  18b  fb0  403  309  704  434  
+  308  620  305  620  610  00c  fff  038  
+  003  070  004  00c  002  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)Number of output Lines:(DECIMAL)5
+Output Lines:HEX000001110000
+000000000011
+001110010010
+001100010101
+001000010010
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)1e0a
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)19
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7691
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)77
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)77,
+BLOCKED QUEUE(DECIMAL)74,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)74
+The Part of the partition occupied by this program:(HEX)
+  21d  000  31d  000  29f  000  11f  000  
+  f30  000  c18  000  19b  000  11b  000  
+  f30  000  c14  000  43b  000  640  000  
+  212  000  640  000  211  000  394  000  
+  f30  000  406  000  20e  000  52c  000  
+  30c  000  10d  000  f40  000  43a  000  
+  306  000  620  000  305  000  620  000  
+  6a0  000  610  000  014  000  005  000  
+  003  000  001  000  019  000  fff  000  
+  001  000  000  000  000  000  000  000  
+  005  000  003  000  00c  000  003  000  
+  005  000  003  000  07d  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)005
+003
+00c
+003
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000101
+000000000011
+000001111101
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1e14
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)15
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7701
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)78
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)78,
+BLOCKED QUEUE(DECIMAL)77,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)77
+The Part of the partition occupied by this program(HEX)
+  640  21c  640  21b  710  720  21a  640  
+  217  710  720  216  311  113  f50  407  
+  400  38c  30b  10e  f50  38a  405  387  
+  306  108  f50  384  6a0  610  00c  00e  
+  002  ff2  ffe  00c  00e  002  00d  00e  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)00c
+00e
+002
+00d
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000001110
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7822
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)79
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)79,
+BLOCKED QUEUE(DECIMAL)78,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)78
+The Part of the partition occupied by this program:(HEX)
+  000  000  010  000  640  002  210  000  
+  23b  000  3bb  000  790  000  7a0  000  
+  28a  000  7c0  000  335  000  f10  000  
+  417  000  3b2  000  740  000  183  000  
+  fd0  000  405  000  402  000  ff0  000  
+  00e  000  720  000  438  000  1a9  000  
+  290  000  226  000  740  000  3a5  000  
+  10d  000  18d  000  f90  000  401  000  
+  43b  000  107  000  207  000  426  000  
+  32f  000  620  000  303  000  620  000  
+  610  000  00e  000  00e  000  fff  000  
+  00e  000  00e  000  00e  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)00e
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001110
+000000001110
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7869
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)80
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)80,
+BLOCKED QUEUE(DECIMAL)79,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)80
+The Part of the partition occupied by this program:(HEX)
+  21e  000  740  000  39b  000  f90  000  
+  483  000  117  000  195  000  43b  000  
+  c16  000  21a  000  315  000  211  000  
+  314  000  210  000  531  000  112  000  
+  012  000  20e  000  c11  000  640  000  
+  20b  000  640  000  20a  000  640  000  
+  209  000  52f  000  620  000  610  000  
+  fff  000  001  000  002  000  00f  000  
+  005  000  002  000  003  000  0ff  000  
+  01a  000  001  000  002  000  003  000  
+  005  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)001
+002
+003
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000000101
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)1f38
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)14
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7993
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)81
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)81,
+BLOCKED QUEUE(DECIMAL)79,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)79
+The Part of the partition occupied by this program(HEX)
+  640  213  00f  20e  310  00d  703  703  
+  20a  30b  009  705  705  105  103  206  
+  206  407  002  002  f00  022  024  004  
+  000  3bb  790  7a0  1b9  fd0  40c  fc0  
+  405  3b3  6a0  3b3  6a0  610  3ae  6a0  
+  3af  6a0  610  3aa  1aa  2a8  42a  022  
+  00a  00f  001  022  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)022
+00a
+00f
+001
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000100010
+000000000000
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)1f3a
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)11
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units7995
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)82
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)82,
+BLOCKED QUEUE(DECIMAL)81,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)81
+The Part of the partition occupied by this program:(HEX)
+  640  000  6c0  000  21a  000  21a  000  
+  29a  000  fb0  000  415  000  790  000  
+  197  000  297  000  396  000  192  000  
+  291  000  fe0  000  43b  000  fa0  000  
+  406  000  28c  000  38b  000  f00  000  
+  18a  000  f00  000  f00  000  305  000  
+  620  000  305  000  620  000  6a0  000  
+  610  000  004  000  000  000  002  000  
+  001  000  ffe  000  004  000  002  000  
+  003  000  005  000  004  000  002  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)004
+002
+003
+005
+Number of output Lines:(DECIMAL)6
+Output Lines:HEX000000000100
+000000000010
+000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8147
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)83
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)83,
+BLOCKED QUEUE(DECIMAL)82,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)82
+The Part of the partition occupied by this program(HEX)
+  640  213  00f  20e  310  00d  703  703  
+  20a  30b  009  705  705  105  103  206  
+  206  407  002  003  f00  032  032  005  
+  000  3bb  790  7a0  1b9  fd0  40c  fc0  
+  405  3b3  6a0  3b3  6a0  610  3ae  6a0  
+  3af  6a0  610  3aa  1aa  2a8  42a  032  
+  032  005  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)032
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000110010
+000000000101
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)2001
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)10
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8194
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)84
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)84,
+BLOCKED QUEUE(DECIMAL)83,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)84
+The Part of the partition occupied by this program(HEX)
+  640  21c  640  21b  710  720  21a  640  
+  217  710  720  216  311  113  f50  407  
+  400  38c  30b  10e  f50  38a  405  387  
+  306  108  f50  384  6a0  610  008  003  
+  001  ffd  fff  008  003  001  007  008  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)008
+003
+001
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000001000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8357
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)85
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)85,
+BLOCKED QUEUE(DECIMAL)83,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)83
+The Part of the partition occupied by this program:(HEX)
+  000  000  010  000  640  002  210  000  
+  23b  000  3bb  000  790  000  7a0  000  
+  28a  000  7c0  000  335  000  f10  000  
+  417  000  3b2  000  740  000  183  000  
+  fd0  000  405  000  402  000  ff0  000  
+  01c  000  720  000  438  000  1a9  000  
+  290  000  226  000  740  000  3a5  000  
+  10d  000  18d  000  f90  000  401  000  
+  43b  000  107  000  207  000  426  000  
+  32f  000  620  000  303  000  620  000  
+  610  000  001  000  0c1  000  fff  000  
+  01c  000  007  000  01c  000  0c1  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)01c
+007
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000011100
+000011000001
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8404
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)86
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)86,
+BLOCKED QUEUE(DECIMAL)85,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)85
+The Part of the partition occupied by this program(HEX)
+  21c  318  7c0  196  116  f30  c16  43b  
+  640  20f  7c0  f30  408  20c  531  18c  
+  28b  308  108  f40  438  303  620  6a0  
+  610  006  001  fff  05b  00f  006  006  
+  05b  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)006
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000110
+000001011011
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)2185
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)10
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8582
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)87
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)87,88,
+BLOCKED QUEUE(DECIMAL)86,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)88
+The Part of the partition occupied by this program: 
+309  705  207  403  640  204  439  302
+620  610  01c  000  007  002  01c  000
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)007
+002
+Number of output Lines:(DECIMAL)5
+Output Lines:HEX000000011100
+
+Progress File:Job ID:(DECIMAL)87
+The Part of the partition occupied by this program(HEX)
+  640  f10  417  217  319  620  720  216  
+  316  720  214  710  720  10d  f10  40a  
+  30d  620  309  109  209  306  206  306  
+  203  42e  610  004  003  002  003  004  
+  004  00f  004  000  001  001  002  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)004
+00f
+004
+Number of output Lines:(DECIMAL)6
+Output Lines:HEX000000000000
+000000000001
+000000000001
+000000000010
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8741
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)89
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)89,
+BLOCKED QUEUE(DECIMAL)86,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)86
+The Part of the partition occupied by this program:(HEX)
+  640  000  f10  000  417  000  217  000  
+  319  000  620  000  720  000  216  000  
+  316  000  720  000  214  000  710  000  
+  720  000  10d  000  f10  000  40a  000  
+  30d  000  620  000  309  000  109  000  
+  209  000  306  000  206  000  306  000  
+  203  000  42e  000  610  000  00a  000  
+  037  000  022  000  037  000  00a  000  
+  00a  000  005  000  000  000  001  000  
+  001  000  002  000  003  000  005  000  
+  008  000  00d  000  015  000  022  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)00a
+005
+Number of output Lines:(DECIMAL)11
+Output Lines:HEX000000000000
+000000000001
+000000000001
+000000000010
+000000000011
+000000000101
+000000001000
+000000001101
+000000010101
+000000100010
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8893
+Current Degree of Multiprogramming:(DECIMAL)5
+Job ready to be scheduled:(DECIMAL)90
+Number of available blocks:(DECIMAL)2
+READY QUEUE:(DECIMAL)90,
+BLOCKED QUEUE(DECIMAL)89,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)89
+The Part of the partition occupied by this program(HEX)
+  21e  319  299  119  f30  c19  195  115  
+  f30  c15  43b  640  20d  390  f30  406  
+  20a  52e  308  109  f40  43a  303  620  
+  6a0  610  005  001  078  fff  001  012  
+  005  002  00e  005  078  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)005
+002
+00e
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000101
+000001111000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units8940
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)91
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)91,92,
+BLOCKED QUEUE(DECIMAL)90,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units8977
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)92
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)92,90,
+BLOCKED QUEUE(DECIMAL)91,
+The time the job was scheduled from cpu(DECIMAL)0
+Snapshot:
+CLOCK:(HEX)Virtual Units9053
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)92
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)92,
+BLOCKED QUEUE(DECIMAL)91,90,
+The time the job was scheduled from cpu(DECIMAL)9017
+Progress File:Job ID:(DECIMAL)90
+The Part of the partition occupied by this program:(HEX)
+  6c0  000  299  000  316  000  216  000  
+  396  000  195  000  295  000  312  000  
+  115  000  210  000  f40  000  439  000  
+  390  000  18e  000  28e  000  309  000  
+  10d  000  207  000  f40  000  42e  000  
+  386  000  6a0  000  186  000  6a0  000  
+  610  000  000  000  000  000  00a  000  
+  014  000  05a  000  fff  000  00a  000  
+  00a  000  064  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)00a
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001010
+000001100100
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9118
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)93
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)93,94,
+BLOCKED QUEUE(DECIMAL)92,91,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)91
+The Part of the partition occupied by this program(HEX)
+  640  6c0  21a  21a  29a  fb0  415  790  
+  197  297  396  192  291  fe0  43b  fa0  
+  406  28c  38b  f00  18a  f00  f00  305  
+  620  305  620  6a0  610  004  fff  005  
+  001  ffb  004  005  00a  010  011  004  
+  005  fff  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)004
+005
+00a
+010
+011
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000100
+000000000101
+111111111111
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)23bb
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)18
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9148
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)95
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)95,
+BLOCKED QUEUE(DECIMAL)93,94,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)94
+The Part of the partition occupied by this program:(HEX)
+211  790  7a0  c0e  6c0  fd0  539  288
+307  7c0  185  105  f60  43c  6a0  610
+003  fff  000  003  010  006  009  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)003
+010
+006
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000001001
+Partition:DECIMAL2
+Size:DECIMAL32
+Time the job Entered the System:(HEX)23c5
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)8
+Total run time:(DECIMAL)1
+
+Progress File:Job ID:(DECIMAL)93
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  640  000  216  000  
+  640  000  215  000  313  000  112  000  
+  214  000  30f  000  111  000  f30  000  
+  403  000  18d  000  10d  000  43b  000  
+  18c  000  740  000  106  000  188  000  
+  fc0  007  43c  000  702  000  620  000  
+  610  000  005  000  002  000  002  000  
+  fff  000  004  000  005  000  002  000  
+  002  000  00e  000  01e  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)005
+002
+002
+00e
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000011110
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9378
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)96
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)96,
+BLOCKED QUEUE(DECIMAL)95,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)96
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  397  000  f00  000  
+  f90  000  40f  000  f10  000  40d  000  
+  215  000  314  000  112  000  f10  000  
+  408  000  210  000  30b  000  10d  000  
+  f10  000  437  000  289  000  188  000  
+  43a  000  303  000  f00  000  6a0  000  
+  610  000  002  000  002  000  000  000  
+  000  000  fff  000  000  000  002  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)002
+000
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX
+Snapshot:
+CLOCK:(HEX)Virtual Units9422
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)97
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)97,
+BLOCKED QUEUE(DECIMAL)95,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)97
+The Part of the partition occupied by this program:(HEX)
+  21e  000  319  000  299  000  119  000  
+  f30  000  c19  000  195  000  115  000  
+  f30  000  c15  000  43b  000  640  000  
+  20d  000  390  000  f30  000  406  000  
+  20a  000  52e  000  308  000  109  000  
+  f40  000  43a  000  303  000  620  000  
+  6a0  000  610  000  004  000  001  000  
+  018  000  fff  000  001  000  012  000  
+  004  000  004  000  018  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+  000  001  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)004
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000000100
+000000011000
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)25cd
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)3
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9678
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)98
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)98,
+BLOCKED QUEUE(DECIMAL)95,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)98
+The Part of the partition occupied by this program:(HEX)
+  640  000  217  000  397  000  f00  000  
+  f90  000  40f  000  f10  000  40d  000  
+  215  000  314  000  112  000  f10  000  
+  408  000  210  000  30b  000  10d  000  
+  f10  000  437  000  289  000  188  000  
+  43a  000  303  000  f00  000  6a0  000  
+  610  000  005  000  002  000  000  000  
+  000  000  fff  000  000  000  005  000  
+  00c  000  000  000  008  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)005
+00c
+000
+008
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX
+Snapshot:
+CLOCK:(HEX)Virtual Units9722
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)99
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)99,
+BLOCKED QUEUE(DECIMAL)95,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)95
+The Part of the partition occupied by this program(HEX)
+  640  214  f10  41a  710  720  210  30e  
+  110  f30  413  10d  f30  41d  307  38a  
+  7a0  288  790  7a0  283  409  011  fef  
+  ff0  fff  010  001  000  000  610  23b  
+  137  f20  43c  337  f30  407  3b3  7a0  
+  1ae  fc0  423  330  230  32f  620  610  
+  011  00a  006  006  009  00c  001  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)7
+Input Lines:(HEX)011
+00a
+006
+006
+009
+00c
+001
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9758
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)100
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)100,
+BLOCKED QUEUE(DECIMAL)99,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)99
+The Part of the partition occupied by this program:(HEX)
+  640  000  6c0  000  21a  000  21a  000  
+  29a  000  fb0  000  415  000  790  000  
+  197  000  297  000  396  000  192  000  
+  291  000  fe0  000  43b  000  fa0  000  
+  406  000  28c  000  38b  000  f00  000  
+  18a  000  f00  000  f00  000  305  000  
+  620  000  305  000  620  000  6a0  000  
+  610  000  00a  000  fff  000  00b  000  
+  001  000  ff5  000  00a  000  00b  000  
+  003  000  000  000  00a  000  00b  000  
+  fff  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)00a
+00b
+003
+000
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000001010
+000000001011
+111111111111
+Partition:DECIMAL3
+Size:DECIMAL64
+Time the job Entered the System:(HEX)2685
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)12
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9862
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)101
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)101,
+BLOCKED QUEUE(DECIMAL)100,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)100
+The Part of the partition occupied by this program(HEX)
+  6c0  299  316  216  396  195  295  312  
+  115  210  f40  439  390  18e  28e  309  
+  10d  207  f40  42e  386  6a0  186  6a0  
+  610  000  000  00b  016  063  fff  00b  
+  00e  005  00b  06e  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)00b
+00e
+005
+Number of output Lines:(DECIMAL)2
+Output Lines:HEX000000001011
+000001101110
+Partition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)26a0
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)4
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9889
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)102
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)102,
+BLOCKED QUEUE(DECIMAL)101,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)101
+The Part of the partition occupied by this program:(HEX)
+  640  000  214  000  f10  000  41a  000  
+  710  000  720  000  210  000  30e  000  
+  110  000  f30  000  413  000  10d  000  
+  f30  000  41d  000  307  000  38a  000  
+  7a0  006  288  000  790  000  7a0  000  
+  283  000  409  000  002  000  ffe  000  
+  000  000  fff  000  001  000  000  000  
+  000  000  000  000  610  000  23b  000  
+  137  000  f20  000  43c  000  337  000  
+  f30  000  407  000  3b3  000  7a0  000  
+  1ae  000  fc0  000  423  000  330  000  
+  230  000  32f  000  620  000  610  000  
+  002  000  00f  000  006  000  000  000  
+  000  001  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)002
+00f
+006
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000000000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9899
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)103
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)103,104,
+BLOCKED QUEUE(DECIMAL)102,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)104
+The Part of the partition occupied by this program:(HEX)
+309  705  207  403  640  204  439  302
+620  610  028  000  00a  00e  002  028
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)00a
+00e
+002
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000101000
+Partition:DECIMAL2
+Size:DECIMAL32
+Time the job Entered the System:(HEX)2707
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units9992
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)105
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)105,
+BLOCKED QUEUE(DECIMAL)103,102,
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)105
+The Part of the partition occupied by this program:(HEX)
+211  790  7a0  c0e  6c0  fd0  539  288
+307  7c0  185  105  f60  43c  6a0  610
+004  fff  000  004  007  010  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)004
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000010000
+
+Progress File:Job ID:(DECIMAL)103
+The Part of the partition occupied by this program:(HEX)
+  21e  000  740  000  39b  000  f90  000  
+  483  000  117  000  195  000  43b  000  
+  c16  000  21a  000  315  000  211  000  
+  314  000  210  000  531  000  112  000  
+  012  000  20e  000  c11  000  640  000  
+  20b  000  640  000  20a  000  640  000  
+  209  000  52f  000  620  000  610  000  
+  fff  000  001  000  00a  000  00f  000  
+  00c  000  00a  000  002  000  0ff  000  
+  01a  000  001  000  00a  000  002  000  
+  00e  000  003  000  00c  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  001  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)5
+Input Lines:(HEX)001
+00a
+002
+00e
+003
+Number of output Lines:(DECIMAL)4
+Output Lines:HEX000000001100
+
+Snapshot:
+CLOCK:(HEX)Virtual Units10135
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)106
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)106,
+BLOCKED QUEUE(DECIMAL)102,
+The time the job was scheduled from cpu(DECIMAL)0
+STATISTICS:CLOCK:HEXVirtual Units2798
+
+Mean User run time:(DECIMAL)135
+Mean User Job Execution time:(DECIMAL)95
+Mean User IO Time:(DECIMAL)4260
+Mean User Job time in system:(DECIMAL)95
+Total CPU IDle Time:(DECIMAL)4260
+Total time lost due to partial executing partially jobs:(DECIMAL)165
+Number of jobs that terminated normallyL(DECIMAL)106
+Number of jobs that terminated abnormally:(DECIMAL)0
+Id of Jobs considered infinite:(DECIMAL)66
+Internal Fragmentation:(DECIMAL)3322
+
+Snapshot:
+CLOCK:(HEX)Virtual Units0
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)1
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)1,2,3,4,5,6,7,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageNULL JOB
+ErrorID135
+Bad Trace FlagNULL JOBError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)4
+The Part of the partition occupied by this program:(HEX)
+309  705  207  403  640  204  439  302
+620  610  028  000  00a  003  028  000
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)00a
+003
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000101000
+Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units168
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)15
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)15,16,17,18,19,20,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units236
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)22
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)22,
+BLOCKED QUEUE(DECIMAL)19,20,15,16,17,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)22
+The Part of the partition occupied by this program:(HEX)
+309  705  207  403  640  204  439  302
+620  610  00c  000  003  004  00c  000
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)003
+004
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000001100
+Partition:DECIMAL2
+Size:DECIMAL32
+Time the job Entered the System:(HEX)136
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)12
+Total run time:(DECIMAL)1
+Error MessageMissing The ** END record
+ErrorID131
+Bad Trace FlagMissing The ** END record
+Snapshot:
+CLOCK:(HEX)Virtual Units311
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)28
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)28,29,30,31,32,
+
+The time the job was scheduled from cpu(DECIMAL)0
+Progress File:Job ID:(DECIMAL)30
+The Part of the partition occupied by this program:(HEX)
+  e40, 217, 397, f00, f90, 40f, f10, 40d  
+  215, 314, 112, f10, 408, 210, 30b, 10d  
+  f10, 437, 289, 188, 43a, 303, f00, 6a0  
+  610, 003, 002, 000, 000, fff, 000, 003  
+  00a, 3b3, 6a0, 3b3, 6a0, 610, 3ae, 6a0  
+  3af, 6a0, 610, 3aa, 1aa, 2a8, 42a, 024  
+  01c, 000, 000, 000, 000, 000, 000, 000  
+  000, 000, 000, 000, 000, 000, 000, 000  
+Number of Input Lines:(DECIMAL)1
+Input Lines:(HEX)003
+Number of output Lines:(DECIMAL)1
+Output Lines:HEX000000001010
+Partition:DECIMAL5
+Size:DECIMAL64
+Time the job Entered the System:(HEX)148
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)7
+I/O Time:(Decimal)1
+Total run time:(DECIMAL)7
+
+Snapshot:
+CLOCK:(HEX)Virtual Units335
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)34
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)34,
+BLOCKED QUEUE(DECIMAL)31,32,28,29,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)32
+The Part of the partition occupied by this program: 
+309  705  207  403  640  204  439  302
+620  610  038  000  00e  00a  003  038
+620  6a0  610  000  000  000  000  001
+000  fff  01c  003  000  000  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)00e
+00a
+003
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000111000
+011000100000
+011010100000
+Partition:DECIMAL1
+Size:DECIMAL32
+Time the job Entered the System:(HEX)17a
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units412
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)39
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)39,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageProgram too Long
+ErrorID142
+Bad Trace FlagProgram too LongError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units434
+Current Degree of Multiprogramming:(DECIMAL)6
+Job ready to be scheduled:(DECIMAL)41
+Number of available blocks:(DECIMAL)1
+READY QUEUE:(DECIMAL)41,42,43,44,47,48,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units509
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)54
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)54,
+BLOCKED QUEUE(DECIMAL)44,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)54
+The Part of the partition occupied by this program:(HEX)
+309  705  207  403  640  204  439  302
+620  610  038  000  00e  003  00f  038
+000  000  000  000  000  000  000  000
+000  000  000  000  000  000  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)00e
+003
+00f
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX000000111000
+
+Snapshot:
+CLOCK:(HEX)Virtual Units540
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)56
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)56,57,58,59,60,61,62,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units552
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)58
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)58,59,60,61,62,
+BLOCKED QUEUE(DECIMAL)56,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units570
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)62
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)62,
+BLOCKED QUEUE(DECIMAL)58,56,59,60,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)62
+The Part of the partition occupied by this program(HEX)
+ 640  217  397  f00  f90  40f  f10  40d 
+ 215  314  112  f10  408  210  30b  10d 
+ f10  437  289  188  43a  303  f00  6a0 
+ 610  006  002  000  000  fff  000  006 
+ 008  001  007  408  311  710  720  12c 
+ f20  402  30b  228  7a0  282  427  ff0 
+ 000  320  620  320  620  610  000  005 
+ 00a  001  000  002  003  323  720  221 
+ 720  220  42a  000  003  fff  bbc  2bb 
+ bbb  f90  610  b37  620  335  720  233 
+ 1b4  437  fff  fff  000  000  000  000 
+ 005  001  007  008  ffc  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+Number of Input Lines:(DECIMAL)4
+Input Lines:(HEX)006
+008
+001
+007
+Number of output Lines:(DECIMAL)3
+Output Lines:HEX010000001000
+001100010001
+011100010000
+Partition:DECIMAL7
+Size:DECIMAL128
+Time the job Entered the System:(HEX)25b
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)7
+I/O Time:(Decimal)1
+Total run time:(DECIMAL)7
+
+Snapshot:
+CLOCK:(HEX)Virtual Units610
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)66
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)66,
+BLOCKED QUEUE(DECIMAL)58,56,60,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageUnrecognizable Character Encountered while Loading
+ErrorID113
+Bad Trace FlagUnrecognizable Character Encountered while LoadingError MessageMissing Job
+ErrorID134
+Bad Trace FlagMissing Job
+Snapshot:
+CLOCK:(HEX)Virtual Units654
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)72
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)72,74,75,76,77,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units668
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)77
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)77,
+BLOCKED QUEUE(DECIMAL)72,74,75,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)77
+The Part of the partition occupied by this program(HEX)
+ 640  217  397  f00  f90  40f  f10  40d 
+ 215  314  112  f10  408  210  30b  10d 
+ f10  437  289  188  43a  303  f00  6a0 
+ 610  002  002  000  000  fff  000  002 
+ 005  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+ 000  000  000  000  000  000  000  000 
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)002
+005
+Number of output Lines:(DECIMAL)3
+Output Lines:HEXError MessageUnrecognizable Character Encountered while Loading
+ErrorID113
+Bad Trace FlagUnrecognizable Character Encountered while LoadingError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageMissing The ** END record
+ErrorID131
+Bad Trace FlagMissing The ** END recordError MessageNULL JOB
+ErrorID135
+Bad Trace FlagNULL JOBError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units736
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)84
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)84,85,87,88,89,90,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Snapshot:
+CLOCK:(HEX)Virtual Units747
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)85
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)85,87,88,89,90,
+
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB recordError MessageNULL JOB
+ErrorID135
+Bad Trace FlagNULL JOB
+Progress File:Job ID:(DECIMAL)89
+The Part of the partition occupied by this program(HEX)
+  309  705  207  403  640  204  439  302  
+  620  610  00c  000  003  002  00c  40a  
+  30d  620  309  109  209  306  206  306  
+  203  42e  610  000  001  000  000  000  
+  00b  006  234  2b2  435  230  3af  32f  
+  fb0  402  431  302  620  610  fff  00a  
+  002  005  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+  000  000  000  000  000  000  000  000  
+Number of Input Lines:(DECIMAL)2
+Input Lines:(HEX)003
+002
+Number of output Lines:(DECIMAL)0
+Output Lines:HEXPartition:DECIMAL6
+Size:DECIMAL128
+Time the job Entered the System:(HEX)325
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)1
+I/O Time:(Decimal)2
+Total run time:(DECIMAL)1
+
+Snapshot:
+CLOCK:(HEX)Virtual Units806
+Current Degree of Multiprogramming:(DECIMAL)7
+Job ready to be scheduled:(DECIMAL)97
+Number of available blocks:(DECIMAL)0
+READY QUEUE:(DECIMAL)97,
+BLOCKED QUEUE(DECIMAL)85,
+The time the job was scheduled from cpu(DECIMAL)0Error MessageSuspected Infinite Loop
+ErrorID140
+Bad Trace FlagSuspected Infinite LoopError MessageMissing The ** JOB record
+ErrorID132
+Bad Trace FlagMissing The ** JOB record
+Progress File:Job ID:(DECIMAL)85
+The Part of the partition occupied by this program:(HEX)
+640  38b  6a0  18b  288  388  6a0  186
+285  106  f40  435  610  006  040  001
+fff  005  003  002  001  002  002  004
+003  008  004  010  005  020  000  000
+Number of Input Lines:(DECIMAL)3
+Input Lines:(HEX)005
+003
+002
+Number of output Lines:(DECIMAL)10
+Output Lines:HEX000000000001
+000000000010
+000000000010
+000000000100
+000000000011
+000000001000
+000000000100
+000000010000
+000000000101
+000000100000
+Partition:DECIMAL2
+Size:DECIMAL32
+Time the job Entered the System:(HEX)3ac
+Time the job left the System:(HEX)000
+Execution Time:(Decimal)5
+I/O Time:(Decimal)95
+Total run time:(DECIMAL)5
+
+Snapshot:
+CLOCK:(HEX)Virtual Units945
+Current Degree of Multiprogramming:(DECIMAL)2
+Job ready to be scheduled:(DECIMAL)99
+Number of available blocks:(DECIMAL)5
+READY QUEUE:(DECIMAL)99,100,
+
+The time the job was scheduled from cpu(DECIMAL)0
+STATISTICS:CLOCK:HEXVirtual Units3b3
+
+Mean User run time:(DECIMAL)22
+Mean User Job Execution time:(DECIMAL)11
+Mean User IO Time:(DECIMAL)920
+Mean User Job time in system:(DECIMAL)9
+Total CPU IDle Time:(DECIMAL)920
+Total time lost due to partial executing partially jobs:(DECIMAL)165
+Number of jobs that terminated normallyL(DECIMAL)80
+Number of jobs that terminated abnormally:(DECIMAL)24
+Id of Jobs considered infinite:(DECIMAL)66
+Internal Fragmentation:(DECIMAL)1950

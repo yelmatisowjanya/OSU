@@ -1,0 +1,38 @@
+
+000(HEX)			 640(HEX)			 R5(HEX)			  (HEX)			  (HEX)			  (HEX)			 004(HEX)			  (HEX)
+
+001(HEX)			 6c0(HEX)			 R4(HEX)			  (HEX)			 000(HEX)			  (HEX)			 005(HEX)			  (HEX)
+
+002(HEX)			 21a(HEX)			 R5(HEX)			 01d(HEX)			 004(HEX)			  (HEX)			 004(HEX)			 004(HEX)
+
+003(HEX)			 21a(HEX)			 R5(HEX)			 01e(HEX)			 004(HEX)			  (HEX)			 004(HEX)			 004(HEX)
+
+004(HEX)			 29a(HEX)			 R4(HEX)			 01f(HEX)			 005(HEX)			 004(HEX)			 005(HEX)			 005(HEX)
+
+007(HEX)			 790(HEX)			 R4(HEX)			  (HEX)			 ffa(HEX)			  (HEX)			 005(HEX)			  (HEX)
+
+008(HEX)			 197(HEX)			 R4(HEX)			 020(HEX)			 ffa(HEX)			 005(HEX)			 ffb(HEX)			 001(HEX)
+
+009(HEX)			 297(HEX)			 R4(HEX)			 021(HEX)			 ffb(HEX)			 001(HEX)			 ffb(HEX)			 ffb(HEX)
+
+00a(HEX)			 396(HEX)			 R4(HEX)			 021(HEX)			 ffb(HEX)			 ffb(HEX)			 ffb(HEX)			 ffb(HEX)
+
+00b(HEX)			 192(HEX)			 R4(HEX)			 01e(HEX)			 ffb(HEX)			 ffb(HEX)			 fff(HEX)			 004(HEX)
+
+00c(HEX)			 291(HEX)			 R4(HEX)			 01e(HEX)			 fff(HEX)			 004(HEX)			 fff(HEX)			 fff(HEX)
+
+011(HEX)			 28c(HEX)			 R4(HEX)			 01e(HEX)			 fff(HEX)			 fff(HEX)			 fff(HEX)			 fff(HEX)
+
+012(HEX)			 38b(HEX)			 R4(HEX)			 01e(HEX)			 fff(HEX)			 fff(HEX)			 fff(HEX)			 fff(HEX)
+
+017(HEX)			 305(HEX)			 R5(HEX)			 01d(HEX)			 004(HEX)			 fff(HEX)			 004(HEX)			 004(HEX)
+
+018(HEX)			 620(HEX)			 R5(HEX)			  (HEX)			 004(HEX)			  (HEX)			 004(HEX)			  (HEX)
+
+019(HEX)			 305(HEX)			 R5(HEX)			 01f(HEX)			 004(HEX)			 640(HEX)			 005(HEX)			 005(HEX)
+
+01a(HEX)			 620(HEX)			 R5(HEX)			  (HEX)			 005(HEX)			  (HEX)			 005(HEX)			  (HEX)
+
+01b(HEX)			 6a0(HEX)			 R4(HEX)			  (HEX)			 fff(HEX)			  (HEX)			 fff(HEX)			  (HEX)
+
+01c(HEX)			 610(HEX)			  (HEX)			  (HEX)			  (HEX)			  (HEX)			  (HEX)			  (HEX)
